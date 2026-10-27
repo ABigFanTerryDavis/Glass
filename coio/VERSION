@@ -1,0 +1,3 @@
+COIO v0.0.1
+BIOS bootloader for Glass(OS)
+Features: kernel load, fallback terminal (50 commands)

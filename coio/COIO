@@ -1,0 +1,3 @@
+COIO v0.0.1 FINAL
+BIOS Bootloader for Glass(OS)
+Load kernel, 50-command fallback shell, error recovery terminal.

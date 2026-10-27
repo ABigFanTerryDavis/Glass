@@ -1,0 +1,6 @@
+COIO Fallback Shell Commands (50 total):
+1 boot  2 reboot  3 shutdown  4 help  5 exit  6 mem  7 disk  8 ls  9 cat  10 echo
+11 clear  12 reset  13 debug  14 status  15 version  16 kernel  17 load  18 save  19 edit  20 delete
+21 copy  22 move  23 rename  24 list  25 find  26 search  27 print  28 time  29 date  30 log
+31 error  32 trace  33 dump  34 inspect  35 patch  36 mount  37 unmount  38 format  39 scan  40 fix
+41 update  42 install  43 remove  44 config  45 set  46 get  47 show  48 run  49 exec  50 quit
